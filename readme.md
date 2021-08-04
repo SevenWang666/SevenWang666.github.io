@@ -3,3 +3,4 @@ npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap
 
 ```
 
+test
