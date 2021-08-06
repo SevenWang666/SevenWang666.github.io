@@ -36,3 +36,5 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+查看是否触发jenkins部署
